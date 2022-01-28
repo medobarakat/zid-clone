@@ -1,13 +1,39 @@
-# Zid Page Clone
+# Zid-Clone
+this is a responsive clone Webpage built with VueJs , Bootstrap
 
-## made with Html , Css ,BootStrap 5.1 , JavaScript , VueJs
+![screenshot](./public/screenshot.png)
 
-## It has been made by Ahmed Barakat
+## Live Link
 
-## for more contact me on
+- Live: [DEMO](https://zid-clone-medobarakat.netlify.app/)
 
-## ahmedbarakat2401@gmail.com
+## Built with
 
-## or +201013782744
+- Vue Js
+- BootStrap
+- Pure JavaScript
+- HTML & Css
 
-## Dont Forget to npm install
+## Getting Started
+To get a local copy of the repository please run the following commands on your terminal:
+- ```$ cd <folder>```
+- ```$ git clone https://github.com/medobarakat/zid-clone ```
+- ```$ cd zid-clone ```
+
+
+## Authors
+
+👤 **Ahmed Barakat**
+- Github: [@medobarakat](https://github.com/medobarakat)
+
+- Linkedin: [Ahmed Barakat](https://www.linkedin.com/in/ahmed-barakat-dev/)
+
+- Email: [My Gmail](ahmedbarakat2401@gmail.com)
+
+##    Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
