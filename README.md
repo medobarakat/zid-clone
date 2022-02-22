@@ -9,7 +9,7 @@ this is a responsive clone Webpage built with VueJs , Bootstrap
 
 ## Built with
 
-- Vue Js
+- VueJs
 - BootStrap
 - Pure JavaScript
 - HTML & Css
